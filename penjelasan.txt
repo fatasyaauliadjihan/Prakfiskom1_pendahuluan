@@ -1,0 +1,11 @@
+penjelasan program
+
+tujuan program
+1.
+2.
+
+
+cara kerja:
+input : 
+proses : 
+output : 
